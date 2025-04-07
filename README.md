@@ -24,4 +24,7 @@ Unity Asset Bundle Extractor GUI adalah alat berbasis Python yang digunakan untu
 2. Instal dependensi:
 
 ```bash
+sudo apt upgrade && apt upgrade
+pip update
 pip install UnityPy Pillow pygame
+python run.py
